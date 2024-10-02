@@ -13,7 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.birthday_card.ui.theme.BirthdaycardTheme
 
 class MainActivity : ComponentActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
+    override fun onCreate(savedInstanceState: Bundle?) { f
         super.onCreate(savedInstanceState)
         setContent {
             BirthdaycardTheme {
